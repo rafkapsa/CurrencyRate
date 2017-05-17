@@ -1,4 +1,4 @@
-package com.example.rafal.currencyrates;
+package com.example.rafal.currencyrates.domain;
 
 import lombok.Getter;
 import lombok.Setter;

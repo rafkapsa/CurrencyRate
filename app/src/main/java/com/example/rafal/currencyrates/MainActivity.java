@@ -7,6 +7,9 @@ import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.widget.TextView;
 
+import com.example.rafal.currencyrates.domain.CurrencyTable;
+import com.example.rafal.currencyrates.service.CurrencyProvider;
+
 public class MainActivity extends AppCompatActivity implements SwipeRefreshLayout.OnRefreshListener, CurrencyProvider.CurrencyAsyncTaskListener {
     private SwipeRefreshLayout swipeRefreshLayout;
     private TextView tableNumber;

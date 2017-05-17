@@ -1,6 +1,8 @@
-package com.example.rafal.currencyrates;
+package com.example.rafal.currencyrates.service;
 
 import android.os.AsyncTask;
+
+import com.example.rafal.currencyrates.domain.CurrencyTable;
 
 import org.json.JSONException;
 

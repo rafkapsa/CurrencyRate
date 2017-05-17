@@ -1,4 +1,7 @@
-package com.example.rafal.currencyrates;
+package com.example.rafal.currencyrates.service;
+
+import com.example.rafal.currencyrates.domain.Currency;
+import com.example.rafal.currencyrates.domain.CurrencyTable;
 
 import org.json.JSONArray;
 import org.json.JSONException;

@@ -1,4 +1,6 @@
-package com.example.rafal.currencyrates;
+package com.example.rafal.currencyrates.domain;
+
+import com.example.rafal.currencyrates.domain.Currency;
 
 import java.util.List;
 
